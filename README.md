@@ -1,1 +1,2 @@
-# Social_Media_Analytics
+## Social_Media_Analytics
+#### I started by performing data wrangling on approximately 5,000 records to remove N/A and missing values. After cleaning the data, I calculated the correlation to better understand the strength of the relationships between variables. Using the training set, I developed machine learning models in Python, applying four different algorithms: Logistic Regression, Random Forest, K-Nearest Neighbors, and XGBoost. Among these, XGBoost achieved the highest accuracy at 81%, as well as the highest precision, recall, and F-measure at 79%. According to the XGBoost model, the key predictors of social influence are: A/B_listed_count, A/B_follower_count, A/B_network_feature_3, A/B_retweets_received, and A/B_network_feature_2
